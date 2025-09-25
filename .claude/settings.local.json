@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//d//**)",
+      "Bash(dir)",
+      "Bash(dir:*)",
+      "Bash(findstr:*)",
+      "Bash(firebase init:*)",
+      "Bash(npm run build:*)",
+      "Bash(firebase deploy:*)",
+      "Bash(npm run dev:*)",
+      "Bash(npm install:*)",
+      "mcp__ide__getDiagnostics",
+      "Bash(firebase --version)",
+      "Bash(copy .env.example .env)",
+      "Bash(cp:*)",
+      "Bash(firebase login:*)",
+      "Bash(firebase projects:list:*)",
+      "Bash(printf \"dist\\nY\\nN\\n\")",
+      "WebFetch(domain:ai-chatbot-app-d4743.web.app)",
+      "Bash(firebase hosting:channel:list:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
