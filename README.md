@@ -89,14 +89,15 @@ The project is **architecturally prepared for production AI services**. The code
 
 ## Screenshots
 
-![Chat Interface](https://via.placeholder.com/800x400?text=Chat+Interface+Screenshot)
-*Modern chat interface with glassmorphism design*
+**[View Live Demo](https://ai-chatbot-app-d4743.web.app/)** to see the application in action!
 
-![Authentication](https://via.placeholder.com/800x400?text=Authentication+Screenshot)
-*Secure login and registration system*
-
-![Theme Toggle](https://via.placeholder.com/800x400?text=Dark+Light+Theme+Screenshot)
-*Dark and light theme support*
+The application features:
+- **Beautiful Glassmorphism Design**: Modern, semi-transparent UI elements with backdrop blur effects
+- **Responsive Chat Interface**: Full-width chat area with message bubbles, timestamps, and smooth animations
+- **Authentication Screens**: Clean login/signup forms with email and guest mode options
+- **Theme Switching**: Toggle between elegant dark and light color schemes
+- **Sidebar Navigation**: Collapsible chat history with intuitive controls
+- **AI Personality Selector**: Dropdown menu to switch between different conversation styles
 
 ## What I Learned
 
