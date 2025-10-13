@@ -89,15 +89,27 @@ The project is **architecturally prepared for production AI services**. The code
 
 ## Screenshots
 
-**[View Live Demo](https://ai-chatbot-app-d4743.web.app/)** to see the application in action!
+### Live Application Preview
 
-The application features:
-- **Beautiful Glassmorphism Design**: Modern, semi-transparent UI elements with backdrop blur effects
-- **Responsive Chat Interface**: Full-width chat area with message bubbles, timestamps, and smooth animations
-- **Authentication Screens**: Clean login/signup forms with email and guest mode options
-- **Theme Switching**: Toggle between elegant dark and light color schemes
-- **Sidebar Navigation**: Collapsible chat history with intuitive controls
-- **AI Personality Selector**: Dropdown menu to switch between different conversation styles
+**[🚀 View Live Demo](https://ai-chatbot-app-d4743.web.app/)**
+
+> **Note**: To add screenshots to this section, take screenshots of your application and save them in the `/screenshots` folder, then update the paths below.
+
+#### Chat Interface
+<!-- ![Chat Interface](screenshots/chat-interface.png) -->
+Beautiful glassmorphism design with real-time messaging, timestamps, and smooth animations.
+
+#### Authentication
+<!-- ![Authentication](screenshots/authentication.png) -->
+Secure login and registration with email/password and guest mode support.
+
+#### Theme Toggle
+<!-- ![Dark Mode](screenshots/dark-mode.png) -->
+Seamless switching between elegant dark and light themes.
+
+#### Mobile Responsive
+<!-- ![Mobile View](screenshots/mobile-view.png) -->
+Fully optimized for mobile devices with touch-friendly interface.
 
 ## What I Learned
 
