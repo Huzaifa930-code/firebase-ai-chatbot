@@ -87,30 +87,6 @@ The project is **architecturally prepared for production AI services**. The code
 2. Uncommenting production API calls in [aiService.js](src/utils/aiService.js)
 3. Selecting your preferred AI provider (OpenAI, Anthropic, Google AI, etc.)
 
-## Screenshots
-
-### Live Application Preview
-
-**[🚀 View Live Demo](https://ai-chatbot-app-d4743.web.app/)**
-
-> **Note**: To add screenshots to this section, take screenshots of your application and save them in the `/screenshots` folder, then update the paths below.
-
-#### Chat Interface
-<!-- ![Chat Interface](screenshots/chat-interface.png) -->
-Beautiful glassmorphism design with real-time messaging, timestamps, and smooth animations.
-
-#### Authentication
-<!-- ![Authentication](screenshots/authentication.png) -->
-Secure login and registration with email/password and guest mode support.
-
-#### Theme Toggle
-<!-- ![Dark Mode](screenshots/dark-mode.png) -->
-Seamless switching between elegant dark and light themes.
-
-#### Mobile Responsive
-<!-- ![Mobile View](screenshots/mobile-view.png) -->
-Fully optimized for mobile devices with touch-friendly interface.
-
 ## What I Learned
 
 ### Technical Skills
